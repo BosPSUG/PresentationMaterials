@@ -5,6 +5,7 @@
 
 ## Materials
 
+* [Slides](https://docs.google.com/presentation/d/1_KDmP9H4avBaFcHi2KsNRVQfnBTis-3tXn4S3Kn0UkA/edit?usp=sharing)
 * [PackageManagement and PowerShellGet code](0-gallery.ps1)
 * [Community projects code](1-gallery-community.ps1)
 * [Publish to the gallery](2-gallery-extras.ps1)
