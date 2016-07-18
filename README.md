@@ -20,6 +20,7 @@
   * [LinkedIn](https://www.linkedin.com/in/wframe)
 * [PowerShell Gallery](https://www.powershellgallery.com/)
   * [PowerShell 5 justification](http://www.asd.gov.au/publications/protect/securing-powershell.htm): "Organisations should install PowerShell version 5.0 where possible due to the superior logging capabilities provided over earlier versions."
+  * [WMF 5 compatibility](https://msdn.microsoft.com/en-us/powershell/wmf/5.0/productincompat)
 * Community Projects:
   * [ImportExcel](https://github.com/dfinke/ImportExcel) (and [gifcam](http://blog.bahraniapps.com/gifcam/))
   * [PoshRSJob](https://github.com/proxb/PoshRSJob)
