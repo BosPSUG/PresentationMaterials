@@ -1,5 +1,5 @@
 ﻿#### Prerequisites not performed here ###
-    # $key = 'My powershellgallery.com key'
+    # $key = Get-Content C:\key.txt -raw
 
 # Bump the version
 explorer $ENV:USERPROFILE\Documents\GitHub\PSSlack
@@ -17,4 +17,3 @@ Find-Module -Repository PSSlackDev
 # Publish a script
 ise C:\temp\Open-IseFunction.ps1
 Publish-Script -Path C:\temp\Open-IseFunction.ps1 -NuGetApiKey $Key
-

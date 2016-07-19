@@ -54,6 +54,7 @@ Uninstall-Package 7zip
 Find-Module -Tag Slack, Excel
 
 # Want to read the code first?
+mkdir C:\temp
 Save-Module PSDiskPart -Path C:\temp
 dir C:\temp\PSDiskPart -Recurse
 
@@ -61,7 +62,7 @@ dir C:\temp\PSDiskPart -Recurse
 Install-Module PoshRSJob, Posh-SSH, ImportExcel
 
 # Just for me, admin not needed
-Install-Module PSSlack -Scope CurrentUser
+Install-Module PSSlack -Scope CurrentUser -Force
 
 # Have an issue? Many of these are open source:
     $Mod = Find-Module ImportExcel
@@ -80,6 +81,7 @@ Get-InstalledScript | Select *
 
 # Run every script we have installed
 # In this case, the script contains a function...
+# Note that I could tab complete Open-IseFunction.ps1 to load this as well...
 Get-InstalledScript | ForEach-Object {
     $Name = $_.Name
     $Path = $_.InstalledLocation
@@ -90,9 +92,9 @@ Get-InstalledScript | ForEach-Object {
 # Use this script to open view Install-Module
 Open-IseFunction Install-Module
 
-# Save a script, open it
+# Save a script, open it to review, run it
 Save-Script -Name Show-Tree -Path C:\Temp
 ise C:\temp\Show-Tree.ps1
-. C:\temp\Show-Tree.ps1 -Path C:\users\wframe\Documents\GitHub\PSSlack
+C:\temp\Show-Tree.ps1 -Path C:\users\ -MaxDepth 2
 
 #### Questions! ####

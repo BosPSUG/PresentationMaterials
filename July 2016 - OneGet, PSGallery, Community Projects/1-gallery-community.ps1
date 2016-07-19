@@ -3,7 +3,7 @@
         # Set-Content C:\redacted.txt "phrases|to|redact"
         # Set-Content C:\Computers.txt "A list of computers"
     # PSSlack example:
-        # Set-PSSlackConfig -Token <my slack token>
+        # Set-Content C:\token.txt "My Slack Token"
 
 
 #### PoshRSJob - Do things fast!
