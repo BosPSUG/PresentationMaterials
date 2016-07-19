@@ -5,7 +5,6 @@
     # PSSlack example:
         # Set-Content C:\token.txt "My Slack Token"
 
-
 #### PoshRSJob - Do things fast!
 ####
     
@@ -173,3 +172,13 @@ Get-SlackChannel -Name boston |
     Get-SlackHistory -After (Get-Date).AddMinutes(-5) |
     Where {$_.Attachments.Text -match "^Found error 1 2 5" } |
     Select -ExpandProperty Attachments
+    
+
+# How to find community modules
+    # Follow folks on Github
+    # Follow folks on Twitter
+    # Browse around the PowerShell gallery
+    # Browse around Github
+    # Google for your specific need
+
+# Pester OSS contributors or vendors if their module isn't in the gallery
