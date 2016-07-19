@@ -5,6 +5,7 @@
 
 ## Materials
 
+* [Youtube recording](https://www.youtube.com/watch?v=_O27n1flJ4k) - skip 49:11 through 53:26, where we took a short break (read: I needed to reset a token I streamed to the Internet)
 * [Slides](https://docs.google.com/presentation/d/1_KDmP9H4avBaFcHi2KsNRVQfnBTis-3tXn4S3Kn0UkA/edit?usp=sharing)
 * [PackageManagement and PowerShellGet code](0-gallery.ps1)
 * [Community projects code](1-gallery-community.ps1)
@@ -36,3 +37,10 @@
   * [PSPrivateGallery](https://github.com/PowerShell/PSPrivateGallery) and [WIP walk through](https://michaeltlombardi.github.io/PSPrivateGalleryWalkthrough/)
   * [ProGet](http://inedo.com/proget/pricing/features-by-edition)
   * [Artifactory](https://www.jfrog.com/confluence/display/RTF/Artifactory+Comparison+Matrix)
+* Questions
+  * On the Deploy to Azure Automation button in the PowerShell Gallery - this adds the module to your Automation account, pulls out activities from the module:
+    * [Gallery Getting Started page](https://www.powershellgallery.com/GettingStarted), ctrl+f Azure Automation
+    * [Runbook and module galleries for Azure Automation](https://azure.microsoft.com/en-us/documentation/articles/automation-runbook-gallery/)
+  * On signing PowerShell modules:
+    * Note: Execution policy is not a security boundary. If you want to sign code, do it to enable application whitelisting solutions like AppLocker, where you can then say 'only allow scripts signed with this certificate to run.' [Sean Metcalf's reference on PowerShell security](https://adsecurity.org/?p=2604) is a great overview of your options from a security perspective.
+    * [Reference](http://www.darkoperator.com/blog/2013/3/5/powershell-basics-execution-policy-part-1.html) from Carlos Perez (who wrote the Posh-SSH module)
