@@ -28,8 +28,9 @@
   * [Posh-SSH](https://github.com/darkoperator/Posh-SSH)
     * [Win32-OpenSSH](https://github.com/PowerShell/Win32-OpenSSH)
   * [PSSlack](https://github.com/RamblingCookieMonster/PSSlack)
-    * [Grab a token](https://api.slack.com/docs/oauth-test-tokens)
+    * [Grab a token](https://api.slack.com/docs/oauth-test-tokens), or reset one you streamed live
 * Publishing on PowerShell Gallery
+  * [Benefits of Open Source](http://www.themacro.com/articles/2016/05/why-the-best-give-away/), and [webinar for legal teams](https://www.chef.io/blog/event/webinar-open-source-licensing-by-lawyers-for-lawyers/).
   * [PowerShell Gallery API Key](https://www.powershellgallery.com/account)
   * [Tips on writing a module](http://ramblingcookiemonster.github.io/Building-A-PowerShell-Module/)
   * [Automatically publish via GitHub + AppVeyor](http://ramblingcookiemonster.github.io/PSDeploy-Inception/)
