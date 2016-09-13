@@ -14,10 +14,15 @@ This is a disorganized list of references that might come in handy
 
 ### PowerShell
 
+Announcement and team links
+
 * Announcement ([link 1](https://azure.microsoft.com/en-us/blog/powershell-is-open-sourced-and-is-available-on-linux/), [link 2](https://blogs.msdn.microsoft.com/powershell/2016/08/18/powershell-on-linux-and-open-source-2/))
 * [Powerscripting Podcast](https://www.youtube.com/watch?v=UVz_1ACRnpU)
 * Channel 9 videos ([link 1](https://channel9.msdn.com/Blogs/hybrid-it-management/PowerShell-on-Linux-and-Open-Source), [link 2](https://channel9.msdn.com/series/PowerShell-Open-Source-Project?sort=rating#tab_sortBy_rating))
 * [PowerShell team reddit AMA](https://www.reddit.com/r/PowerShell/comments/4z3pfg/powershell_team_ama_on_tuesday_823_2p_est/)
+
+PowerShell repository links
+
 * [PowerShell Repo](https://github.com/PowerShell/PowerShell/)
 * [Known issues on non-Windows platforms](https://github.com/PowerShell/PowerShell/blob/master/docs/KNOWNISSUES.md)
 * [PowerShell Repo FAQ](https://github.com/PowerShell/PowerShell/blob/master/docs/FAQ.md)
@@ -27,33 +32,44 @@ This is a disorganized list of references that might come in handy
 * [Contributing](https://github.com/PowerShell/PowerShell/blob/master/.github/CONTRIBUTING.md)
 * [Governance](https://github.com/PowerShell/PowerShell/blob/master/docs/community/governance.md)
 
+Related repositories
+
 * [PowerShell Request For Comments Repo](https://github.com/PowerShell/PowerShell-RFC)
 * [PowerShell MSDN Documentation Source Repo](https://github.com/PowerShell/PowerShell-Docs)
 * [Win32-OpenSSH Repo](https://github.com/PowerShell/Win32-OpenSSH) and [wiki](https://github.com/PowerShell/Win32-OpenSSH/wiki)
 * [PowerShell Editor Services](https://github.com/PowerShell/PowerShellEditorServices)
 
+Chat
+
 * [Gitter Chat](https://gitter.im/PowerShell/PowerShell)
 * [#ps-core Channel in PowerShell Slack](slack.poshcode.org) - Link is to an invite
 
+Community
+
 * [PowerShell Magazine](http://www.powershellmagazine.com/2016/08/18/open-source-powershell-on-windows-linux-and-osx/)
-* [PowerShell Decompiled: Ho do loops work](http://csharpening.net/?p=1844)
-* [VMware PowerCLI for Mac OS X, Linux & More? Yes, please!](http://www.virtuallyghetto.com/2016/09/vmware-powercli-for-mac-os-x-linux-more-yes-please.html)
+* [VMware PowerCLI for Mac OS X, Linux & More? Yes, please!](http://www.virtuallyghetto.com/2016/09/vmware-powercli-for-mac-os-x-linux-more-yes-please.html) - will add link to PowerCLI bits when they arrives.
 * [FAQ: PowerShell on Linux/Mac](https://powershell.org/2016/08/18/faq-powershell-on-linuxmac/)
 * [ISESteroids PowerShell on Linux](http://www.powertheshell.com/powershellonlinux/)
 * [PSScriptAnalyzer Rules Issue](https://github.com/PowerShell/PSScriptAnalyzer/issues/605)
+* [PowerShell Decompiled: Ho do loops work](http://csharpening.net/?p=1844)- Folks are starting to read and discuss the code behind PowerShell - might start seeing insightful, digestible details from this.
+
+Issues and Pull Requests
 
 * [Example Issue: PowerShell Scripts require .ps1 extension](https://github.com/PowerShell/PowerShell/issues/1103)
 * [Example Issue: PSVersionTable should have entry for OS](https://github.com/PowerShell/PowerShell/issues/1635)
 * [Example Issue: Including open source libraries to support YAML cmdlets](https://github.com/PowerShell/PowerShell/issues/2109)
 * [wharrgarbl](https://github.com/PowerShell/PowerShell/pull/1901)
 
+Misc
+
 * [.NET Core Platform Support](https://github.com/dotnet/core/blob/master/roadmap.md#technology-roadmaps) - PowerShell team is aiming for parity with this.
 
 ### Docker
 
 * [Docker Installation](https://docs.docker.com/engine/installation/)
+* [ramblingcookiemonster/pspydemo](https://hub.docker.com/r/ramblingcookiemonster/pspydemo/) - Docker image used for the demo
 
-Example Docker images:
+Interesting and/or optimized Docker images:
 
 * [davidobrien/centos_ansible_powershell](https://hub.docker.com/r/davidobrien/centos_ansible_powershell/~/dockerfile/)
 * [trevorsullivan/powershell](https://hub.docker.com/r/trevorsullivan/powershell/)
