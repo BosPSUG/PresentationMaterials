@@ -14,4 +14,4 @@
 * [Chocolatey](https://chocolatey.org/install)
 * [jbeaudry/Octobox](https://atlas.hashicorp.com/jbeaudry/boxes/Octobox) Vagrant box
 * [MattHodge/Windows2016StdCore-WMF5-NOCM](https://atlas.hashicorp.com/MattHodge/boxes/Windows2016StdCore-WMF5-NOCM) Vagrant box
-* [Packer](https://www.packer.io/intro/).  ([Guide](https://hodgkins.io/best-practices-with-packer-and-windows), [Joe's repo](https://github.com/beaudryj/octo-box)).  Not demoed per se, but used to create demo boxes.
+* [Packer](https://www.packer.io/intro/).  ([Guide](https://hodgkins.io/best-practices-with-packer-and-windows), [Joe's repo](https://github.com/beaudryj/octo-box), [Windows Packer templates](https://github.com/joefitzgerald/packer-windows)).  Not demoed per se, but used to create demo boxes.
