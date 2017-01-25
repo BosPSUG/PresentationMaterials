@@ -12,6 +12,7 @@
 | October 2016 | [Dan Stolts](https://twitter.com/ITProGuru) | [Powerpoint](http://itproguru.com/wp-content/uploads/2016/10/PowerShell-and-DSC-Enables-DSCDevOps-1.pptx) | [Meetup](https://www.meetup.com/Boston-PowerShell-User-Group/events/233284962/) |
 | November 2016 | Jeff Dillon, [Josh Atwell](https://twitter.com/Josh_Atwell) | [Readme](/November2016-DSCandInfra) | [Meetup](https://www.meetup.com/Boston-PowerShell-User-Group/events/234844704) |
 | December 2016 | [Jeffrey Snover](https://twitter.com/jsnover), [Michael Greene](https://twitter.com/migreene) | [Readme](/December2016) | [Meetup](https://www.meetup.com/Boston-PowerShell-User-Group/events/235888380/) |
+| January 2017 | [Joe Beaudry](https://twitter.com/joebeau93) | [Readme](/January2017-Octopus) | [Meetup](https://www.meetup.com/Boston-PowerShell-User-Group/events/236347993/) |
 
 ## Presenters
 
@@ -20,6 +21,7 @@
 | [Dan Stolts](https://twitter.com/ITProGuru) | [Blog](http://itproguru.com/) | [dstolts](https://github.com/dstolts) |
 | Jeff Dillon | | |
 | [Jeffrey Snover](https://twitter.com/jsnover) | [Blog](http://www.jsnover.com/blog/) | [jpsnover](https://github.com/jpsnover) |
+| [Joe Beaudry](https://twitter.com/joebeau93) | [Blog](http://beaudry.io/) | [beaudryj](https://github.com/beaudryj) |
 | [Josh Atwell](https://twitter.com/Josh_Atwell) | [Blog](http://www.vtesseract.com/) | [joshatwell](https://github.com/joshatwell) |
 | [June Blender](https://twitter.com/juneb_get_help) | [Blog](https://www.sapien.com/blog/) | [JuneB](https://github.com/juneb) |
 | [Kevin Sullivan](https://twitter.com/conFigure_ITout) | [Blog](http://configureitout.blogspot.com/) | |
