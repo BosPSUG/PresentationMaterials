@@ -19,7 +19,7 @@
 ## Presenters
 
 | Name, Twitter | Website | GitHub |
-|---|---|---|---|---|---|
+|---|---|---|
 | [Dan Stolts](https://twitter.com/ITProGuru) | [Blog](http://itproguru.com/) | [dstolts](https://github.com/dstolts) |
 | Jeff Dillon | | |
 | [Jeffrey Snover](https://twitter.com/jsnover) | [Blog](http://www.jsnover.com/blog/) | [jpsnover](https://github.com/jpsnover) |
