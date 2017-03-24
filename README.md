@@ -6,9 +6,9 @@
 |---|---|---|---|
 | May 2016 | [Matt Nelson](https://twitter.com/enigma0x3), [Will Schroeder](https://twitter.com/harmj0y) | See Meetup Comments | [Meetup](https://www.meetup.com/Boston-PowerShell-User-Group/events/230856302/) |
 | June 2016 | [Kevin Sullivan](https://twitter.com/conFigure_ITout) | | [Meetup](https://www.meetup.com/Boston-PowerShell-User-Group/events/231618629/) |
-| July 2016 | [Warren Frame](https://twitter.com/psCookieMonster) | [Readme](/July 2016 - OneGet, PSGallery, Community Projects/) | [Meetup](https://www.meetup.com/Boston-PowerShell-User-Group/events/232470149/) |
-| August 2016 | [June Blender](https://twitter.com/juneb_get_help) | [Readme](/August 2016 - Class of Wine/) | [Meetup](https://www.meetup.com/Boston-PowerShell-User-Group/events/232471605/) |
-| September 2016 | [Nicholas Getchell](https://twitter.com/getch3028), [Warren Frame](https://twitter.com/psCookieMonster) | [Readme](/September 2016 - Open Source PowerShell/) | [Meetup](https://www.meetup.com/Boston-PowerShell-User-Group/events/233502018/) |
+| July 2016 | [Warren Frame](https://twitter.com/psCookieMonster) | [Readme](/July 2016 - OneGet, PSGallery, Community Projects) | [Meetup](https://www.meetup.com/Boston-PowerShell-User-Group/events/232470149/) |
+| August 2016 | [June Blender](https://twitter.com/juneb_get_help) | [Readme](/August 2016 - Class of Wine) | [Meetup](https://www.meetup.com/Boston-PowerShell-User-Group/events/232471605/) |
+| September 2016 | [Nicholas Getchell](https://twitter.com/getch3028), [Warren Frame](https://twitter.com/psCookieMonster) | [Readme](/September 2016 - Open Source PowerShell) | [Meetup](https://www.meetup.com/Boston-PowerShell-User-Group/events/233502018/) |
 | October 2016 | [Dan Stolts](https://twitter.com/ITProGuru) | [Powerpoint](http://itproguru.com/wp-content/uploads/2016/10/PowerShell-and-DSC-Enables-DSCDevOps-1.pptx) | [Meetup](https://www.meetup.com/Boston-PowerShell-User-Group/events/233284962/) |
 | November 2016 | Jeff Dillon, [Josh Atwell](https://twitter.com/Josh_Atwell) | [Readme](/November2016-DSCandInfra) | [Meetup](https://www.meetup.com/Boston-PowerShell-User-Group/events/234844704) |
 | December 2016 | [Jeffrey Snover](https://twitter.com/jsnover), [Michael Greene](https://twitter.com/migreene) | [Readme](/December2016) | [Meetup](https://www.meetup.com/Boston-PowerShell-User-Group/events/235888380/) |
