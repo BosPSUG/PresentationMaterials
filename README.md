@@ -13,6 +13,8 @@
 | November 2016 | Jeff Dillon, [Josh Atwell](https://twitter.com/Josh_Atwell) | [Readme](/November2016-DSCandInfra) | [Meetup](https://www.meetup.com/Boston-PowerShell-User-Group/events/234844704) |
 | December 2016 | [Jeffrey Snover](https://twitter.com/jsnover), [Michael Greene](https://twitter.com/migreene) | [Readme](/December2016) | [Meetup](https://www.meetup.com/Boston-PowerShell-User-Group/events/235888380/) |
 | January 2017 | [Joe Beaudry](https://twitter.com/joebeau93) | [Readme](/January2017-Octopus) | [Meetup](https://www.meetup.com/Boston-PowerShell-User-Group/events/236347993/) |
+| February 2017 | [Sean Metcalf](https://twitter.com/PyroTek3) | [Readme](/February2017-Security) | [Meetup](https://www.meetup.com/Boston-PowerShell-User-Group/events/237665859/) |
+| March 2017 | [Steve Parankewich](https://twitter.com/powershellblog) | [Readme](/March2017-EWS) | [Meetup](https://www.meetup.com/Boston-PowerShell-User-Group/events/238382136/) |
 
 ## Presenters
 
@@ -28,6 +30,7 @@
 | [Matt Nelson](https://twitter.com/enigma0x3) | [Blog](https://enigma0x3.net/) | [enigma0x3](https://github.com/enigma0x3) |
 | [Michael Greene](https://twitter.com/migreene) | [Blog](http://aka.ms/bcb) | [mgreenegit](https://github.com/mgreenegit) |
 | [Nicholas Getchell](https://twitter.com/getch3028) | [Blog](https://powershell.getchell.org/) | [ngetchell](https://github.com/ngetchell) |
+| [Sean Metcalf](https://twitter.com/PyroTek3) | [Blog](https://adsecurity.org/) | [PyroTek3](https://github.com/PyroTek3) |
 | [Steve Parankewich](https://twitter.com/powershellblog) | [Blog](http://powershellblogger.com/) | |
 | [Will Schroeder](https://twitter.com/harmj0y) | [Blog](http://www.harmj0y.net/blog/) | [HarmJ0y](https://github.com/HarmJ0y) |
 | [Warren Frame](https://twitter.com/pscookiemonster) | [Blog](http://ramblingcookiemonster.github.io/) | [RamblingCookieMonster](https://github.com/ramblingcookiemonster) |

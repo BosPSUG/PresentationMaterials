@@ -7,7 +7,7 @@
 
 * [Demo GitHub repository](https://github.com/beaudryj/BosPSUGOctoDemo)
 
-# Tools in the demo
+## Tools in the demo
 
 * [Vagrant](https://www.vagrantup.com/docs/why-vagrant/)
 * [VirtualBox](https://www.virtualbox.org/wiki/Downloads) - Using Hyper-V?  Rather than disable, you can [switch between the two at boot](http://www.hanselman.com/blog/SwitchEasilyBetweenVirtualBoxAndHyperVWithABCDEditBootEntryInWindows81.aspx)
