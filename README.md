@@ -3,7 +3,7 @@
 ## Presentations
 
 | Date | Presenter(s) | Materials | Meetup link |
-|---|---|---|---|---|
+|---|---|---|---|
 | May 2016 | [Matt Nelson](https://twitter.com/enigma0x3), [Will Schroeder](https://twitter.com/harmj0y) | See Meetup Comments | [Meetup](https://www.meetup.com/Boston-PowerShell-User-Group/events/230856302/) |
 | June 2016 | [Kevin Sullivan](https://twitter.com/conFigure_ITout) | | [Meetup](https://www.meetup.com/Boston-PowerShell-User-Group/events/231618629/) |
 | July 2016 | [Warren Frame](https://twitter.com/psCookieMonster) | [Readme](/July 2016 - OneGet, PSGallery, Community Projects/README.md) | [Meetup](https://www.meetup.com/Boston-PowerShell-User-Group/events/232470149/) |
