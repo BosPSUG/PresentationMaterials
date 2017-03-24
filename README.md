@@ -13,7 +13,7 @@
 | November 2016 | Jeff Dillon, [Josh Atwell](https://twitter.com/Josh_Atwell) | [Readme](2016-11-dsc-infra) | [Meetup](https://www.meetup.com/Boston-PowerShell-User-Group/events/234844704) |
 | December 2016 | [Jeffrey Snover](https://twitter.com/jsnover), [Michael Greene](https://twitter.com/migreene) | [Readme](2016-12-winter-special) | [Meetup](https://www.meetup.com/Boston-PowerShell-User-Group/events/235888380/) |
 | January 2017 | [Joe Beaudry](https://twitter.com/joebeau93) | [Readme](2017-01-octopus) | [Meetup](https://www.meetup.com/Boston-PowerShell-User-Group/events/236347993/) |
-| February 2017 | [Sean Metcalf](https://twitter.com/PyroTek3) | [Readme](/February2017-Security) | [Meetup](https://www.meetup.com/Boston-PowerShell-User-Group/events/237665859/) |
+| February 2017 | [Sean Metcalf](https://twitter.com/PyroTek3) | [Readme](2017-02-security) | [Meetup](https://www.meetup.com/Boston-PowerShell-User-Group/events/237665859/) |
 | March 2017 | [Steve Parankewich](https://twitter.com/powershellblog) | [Readme](2017-03-ews) | [Meetup](https://www.meetup.com/Boston-PowerShell-User-Group/events/238382136/) |
 
 ## Presenters
