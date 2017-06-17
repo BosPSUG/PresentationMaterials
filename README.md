@@ -15,6 +15,7 @@
 | January 2017 | [Joe Beaudry](https://twitter.com/joebeau93) | [Readme](2017-01-octopus) | [Meetup](https://www.meetup.com/Boston-PowerShell-User-Group/events/236347993/) |
 | February 2017 | [Sean Metcalf](https://twitter.com/PyroTek3) | [Readme](2017-02-security) | [Meetup](https://www.meetup.com/Boston-PowerShell-User-Group/events/237665859/) |
 | March 2017 | [Steve Parankewich](https://twitter.com/powershellblog) | [Readme](2017-03-ews) | [Meetup](https://www.meetup.com/Boston-PowerShell-User-Group/events/238382136/) |
+| June 2017 | Jeff Dillon, [Jeffrey Snover](https://twitter.com/jsnover) | [Readme](2017-06-powershell) | [Meetup](https://www.meetup.com/Boston-PowerShell-User-Group/events/239704767/) |
 
 ## Presenters
 
