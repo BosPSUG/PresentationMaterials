@@ -16,6 +16,8 @@
 | February 2017 | [Sean Metcalf](https://twitter.com/PyroTek3) | [Readme](2017-02-security) | [Meetup](https://www.meetup.com/Boston-PowerShell-User-Group/events/237665859/) |
 | March 2017 | [Steve Parankewich](https://twitter.com/powershellblog) | [Readme](2017-03-ews) | [Meetup](https://www.meetup.com/Boston-PowerShell-User-Group/events/238382136/) |
 | June 2017 | Jeff Dillon, [Jeffrey Snover](https://twitter.com/jsnover) | [Readme](2017-06-powershell) | [Meetup](https://www.meetup.com/Boston-PowerShell-User-Group/events/239704767/) |
+| July 2017 | [Warren Estes](https://twitter.com/warren2600) | [Readme](2017-03-ews) | [Meetup](https://www.meetup.com/Boston-PowerShell-User-Group/events/241381825/) |
+| August 2017 | [Robb Schiefer](https://twitter.com/chief7) | [Readme](2017-03-ews) | [Meetup](https://www.meetup.com/Boston-PowerShell-User-Group/events/242223110/) |
 
 ## Presenters
 
@@ -31,9 +33,11 @@
 | [Matt Nelson](https://twitter.com/enigma0x3) | [Blog](https://enigma0x3.net/) | [enigma0x3](https://github.com/enigma0x3) |
 | [Michael Greene](https://twitter.com/migreene) | [Blog](http://aka.ms/bcb) | [mgreenegit](https://github.com/mgreenegit) |
 | [Nicholas Getchell](https://twitter.com/getch3028) | [Blog](https://powershell.getchell.org/) | [ngetchell](https://github.com/ngetchell) |
+| [Robb Schiefer](https://twitter.com/chief7) | [Blog](https://t.co/58MH9vh596) | [rschiefer](https://github.com/rschiefer) |
 | [Sean Metcalf](https://twitter.com/PyroTek3) | [Blog](https://adsecurity.org/) | [PyroTek3](https://github.com/PyroTek3) |
 | [Steve Parankewich](https://twitter.com/powershellblog) | [Blog](http://powershellblogger.com/) | |
 | [Will Schroeder](https://twitter.com/harmj0y) | [Blog](http://www.harmj0y.net/blog/) | [HarmJ0y](https://github.com/HarmJ0y) |
+| [Warren Estes](https://twitter.com/warren2600) | [Blog](https://www.warrenestes.com/) | |
 | [Warren Frame](https://twitter.com/pscookiemonster) | [Blog](http://ramblingcookiemonster.github.io/) | [RamblingCookieMonster](https://github.com/ramblingcookiemonster) |
 
 ## Contributing
