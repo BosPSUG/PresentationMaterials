@@ -14,5 +14,5 @@
 ### PowerShell: Where we are and where we are going
 
 * [Recording](https://youtu.be/vRsH-RZoPL4)
-* [Jeffrey's Slides](2017-06-powershell/PowerShell2017.pptx)
-* [Jeff's Slides](2017-06-powershell/WindowsAtWayfair.pptx)
+* [Jeffrey's Slides](PowerShell2017.pptx)
+* [Jeff's Slides](WindowsAtWayfair.pptx)
