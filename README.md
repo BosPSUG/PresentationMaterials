@@ -16,8 +16,13 @@
 | February 2017 | [Sean Metcalf](https://twitter.com/PyroTek3) | [Readme](2017-02-security) | [Meetup](https://www.meetup.com/Boston-PowerShell-User-Group/events/237665859/) |
 | March 2017 | [Steve Parankewich](https://twitter.com/powershellblog) | [Readme](2017-03-ews) | [Meetup](https://www.meetup.com/Boston-PowerShell-User-Group/events/238382136/) |
 | June 2017 | Jeff Dillon, [Jeffrey Snover](https://twitter.com/jsnover) | [Readme](2017-06-powershell) | [Meetup](https://www.meetup.com/Boston-PowerShell-User-Group/events/239704767/) |
-| July 2017 | [Warren Estes](https://twitter.com/warren2600) | [Readme](2017-03-ews) | [Meetup](https://www.meetup.com/Boston-PowerShell-User-Group/events/241381825/) |
-| August 2017 | [Robb Schiefer](https://twitter.com/chief7) | [Readme](2017-03-ews) | [Meetup](https://www.meetup.com/Boston-PowerShell-User-Group/events/242223110/) |
+| July 2017 | [Warren Estes](https://twitter.com/warren2600) | [Readme](2017-07-dba) | [Meetup](https://www.meetup.com/Boston-PowerShell-User-Group/events/241381825/) |
+| August 2017 | [Robb Schiefer](https://twitter.com/chief7) | [Readme](2017-08-tdd) | [Meetup](https://www.meetup.com/Boston-PowerShell-User-Group/events/242223110/) |
+| September 2017 | [Matthew Anderson](https://twitter.com/matholamew) | Readme | [Meetup](https://www.meetup.com/Boston-PowerShell-User-Group/events/243330591/) |
+| October 2017 | [Gene Laisne](https://twitter.com/glaisne) | Readme | [Meetup](https://www.meetup.com/Boston-PowerShell-User-Group/events/244261075/) |
+| December 2017 | [Joshua Stenhouse](https://twitter.com/joshuastenhouse) | Readme | [Meetup](https://www.meetup.com/Boston-PowerShell-User-Group/events/245144753/) |
+| January 2018 | [Bill Wilder](https://twitter.com/codingoutloud) | Readme | [Meetup](https://www.meetup.com/Boston-PowerShell-User-Group/events/246736419/) |
+| February 2018 | [Warren Frame](https://twitter.com/psCookieMonster) | Readme | [Meetup](https://www.meetup.com/Boston-PowerShell-User-Group/events/247637551/) |
 
 ## Presenters
 

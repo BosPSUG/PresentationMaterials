@@ -11,4 +11,3 @@
 * Other references on Test-Kitchen that have come in handy:
   * [Introduction to Kitchen-DSC](https://gaelcolas.com/2016/07/11/introduction-to-kitchen-dsc/)
   * [Getting Local: Working on Community Projects with Test-Kitchen](https://stevenmurawski.com/powershell/2017/05/local-kitchen/)
-  * []()
