@@ -23,6 +23,8 @@
 | December 2017 | [Joshua Stenhouse](https://twitter.com/joshuastenhouse) | Readme | [Meetup](https://www.meetup.com/Boston-PowerShell-User-Group/events/245144753/) |
 | January 2018 | [Bill Wilder](https://twitter.com/codingoutloud) | Readme | [Meetup](https://www.meetup.com/Boston-PowerShell-User-Group/events/246736419/) |
 | February 2018 | [Warren Frame](https://twitter.com/psCookieMonster) | [Readme](2018-02-neo4j) | [Meetup](https://www.meetup.com/Boston-PowerShell-User-Group/events/247637551/) |
+| March 2018 | [Rob Pleau ](https://twitter.com/rjpleau) | [Readme](2018-03-plaster) | [Meetup](https://www.meetup.com/Boston-PowerShell-User-Group/events/248715959/) |
+| April 2018 | [Jim Arruda](https://twitter.com/JimRockarruda) | [Readme](2018-04-pester) | [Meetup](https://www.meetup.com/Boston-PowerShell-User-Group/events/249909886/) |
 
 ## Presenters
 
@@ -33,6 +35,7 @@
 | [Gene Laisne](https://twitter.com/glaisne) | [Blog](http://www.genelaisne.com/) | [glaisne](https://github.com/glaisne) |
 | Jeff Dillon | | |
 | [Jeffrey Snover](https://twitter.com/jsnover) | [Blog](http://www.jsnover.com/blog/) | [jpsnover](https://github.com/jpsnover) |
+| [Jim Arruda](https://twitter.com/JimRockarruda) | | [rockarruda](https://github.com/rockarruda) |
 | [Joe Beaudry](https://twitter.com/joebeau93) | [Blog](http://beaudry.io/) | [beaudryj](https://github.com/beaudryj) |
 | [Josh Atwell](https://twitter.com/Josh_Atwell) | [Blog](http://www.vtesseract.com/) | [joshatwell](https://github.com/joshatwell) |
 | [Joshua Stenhouse](https://twitter.com/joshuastenhouse) | [Blog](https://virtuallysober.com/) |  |
@@ -42,6 +45,7 @@
 | [Matthew Anderson](https://twitter.com/matholamew) | | |
 | [Michael Greene](https://twitter.com/migreene) | [Blog](http://aka.ms/bcb) | [mgreenegit](https://github.com/mgreenegit) |
 | [Nicholas Getchell](https://twitter.com/getch3028) | [Blog](https://powershell.getchell.org/) | [ngetchell](https://github.com/ngetchell) |
+| [Rob Pleau](https://twitter.com/rjpleau) | [Blog](https://ephos.github.io/) | [ephos](https://github.com/ephos) |
 | [Robb Schiefer](https://twitter.com/chief7) | [Blog](https://t.co/58MH9vh596) | [rschiefer](https://github.com/rschiefer) |
 | [Sean Metcalf](https://twitter.com/PyroTek3) | [Blog](https://adsecurity.org/) | [PyroTek3](https://github.com/PyroTek3) |
 | [Steve Parankewich](https://twitter.com/powershellblog) | [Blog](http://powershellblogger.com/) | |

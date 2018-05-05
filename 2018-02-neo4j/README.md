@@ -5,11 +5,7 @@
 
 ## Materials
 
-* [Slides](Dots.pptx)
-* Demo code:
-  * [Install](0-install.ps1)
-  * [Cypher](1-cypher.ps1)
-  * [PSNeo4j](2-psneo4j.ps1)
-  * [Dots](3-dots.ps1)
-  * [Tools](4-tools.ps1)
-* Video: Recorded.  Waiting on summit (Material will be a bit different)
+* [Slides](https://schd.ws/hosted_files/powershelldevopsglobalsummit2018/a8/dots.pptx)
+* [PSNeo4j repo](https://github.com/RamblingCookieMonster/PSNeo4j)
+* [Dots repo](https://github.com/RamblingCookieMonster/Dots)
+* [Recording](https://www.youtube.com/watch?v=5SVRCkUtKJU&t=10s) (from summit)
